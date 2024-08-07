@@ -5,6 +5,6 @@ This repo contains a simple microservices application, EKS configuration using t
 
 ## Visuals
 
- <img src=https://github.com/brysonwaisi/automate-deployment-with-argocd/blob/main/assets/Screenshot%20from%202024-08-07%2012-33-39.png' />
+ <img src="https://github.com/brysonwaisi/automate-deployment-with-argocd/blob/main/assets/Screenshot%20from%202024-08-07%2012-33-39.png" />
 
- <img src=https://github.com/brysonwaisi/automate-deployment-with-argocd/blob/main/assets/Screenshot%20from%202024-08-07%2012-39-39.png' />
+ <img src="https://github.com/brysonwaisi/automate-deployment-with-argocd/blob/main/assets/Screenshot%20from%202024-08-07%2012-39-39.png" />
